@@ -58,6 +58,7 @@ RETURNS: all items from the shopping list as JSON.
 RETURNS: gets one item selected by provided ID as JSON.
 
 Example of usage:
+
 ```GET /api/ListItems/7 ```
 
 and output JSON:
@@ -71,5 +72,6 @@ and output JSON:
 Deletes item selected by provided ID.
 
 Example of usage:
+
 ``` DELETE /api/ListItems/5 ```
 
