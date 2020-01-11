@@ -1,0 +1,14 @@
+C:\Users\mikol\Google Drive\Studia\ShoppingListApi\ShoppingListApi\bin\Debug\netcoreapp2.1\ShoppingListApi.deps.json
+C:\Users\mikol\Google Drive\Studia\ShoppingListApi\ShoppingListApi\bin\Debug\netcoreapp2.1\ShoppingListApi.runtimeconfig.json
+C:\Users\mikol\Google Drive\Studia\ShoppingListApi\ShoppingListApi\bin\Debug\netcoreapp2.1\ShoppingListApi.runtimeconfig.dev.json
+C:\Users\mikol\Google Drive\Studia\ShoppingListApi\ShoppingListApi\bin\Debug\netcoreapp2.1\ShoppingListApi.dll
+C:\Users\mikol\Google Drive\Studia\ShoppingListApi\ShoppingListApi\obj\Debug\netcoreapp2.1\ShoppingListApi.csprojAssemblyReference.cache
+C:\Users\mikol\Google Drive\Studia\ShoppingListApi\ShoppingListApi\obj\Debug\netcoreapp2.1\ShoppingListApi.csproj.CoreCompileInputs.cache
+C:\Users\mikol\Google Drive\Studia\ShoppingListApi\ShoppingListApi\obj\Debug\netcoreapp2.1\ShoppingListApi.RazorAssemblyInfo.cache
+C:\Users\mikol\Google Drive\Studia\ShoppingListApi\ShoppingListApi\obj\Debug\netcoreapp2.1\ShoppingListApi.RazorAssemblyInfo.cs
+C:\Users\mikol\Google Drive\Studia\ShoppingListApi\ShoppingListApi\obj\Debug\netcoreapp2.1\ShoppingListApi.AssemblyInfoInputs.cache
+C:\Users\mikol\Google Drive\Studia\ShoppingListApi\ShoppingListApi\obj\Debug\netcoreapp2.1\ShoppingListApi.AssemblyInfo.cs
+C:\Users\mikol\Google Drive\Studia\ShoppingListApi\ShoppingListApi\obj\Debug\netcoreapp2.1\ShoppingListApi.RazorTargetAssemblyInfo.cache
+C:\Users\mikol\Google Drive\Studia\ShoppingListApi\ShoppingListApi\bin\Debug\netcoreapp2.1\ShoppingListApi.pdb
+C:\Users\mikol\Google Drive\Studia\ShoppingListApi\ShoppingListApi\obj\Debug\netcoreapp2.1\ShoppingListApi.dll
+C:\Users\mikol\Google Drive\Studia\ShoppingListApi\ShoppingListApi\obj\Debug\netcoreapp2.1\ShoppingListApi.pdb
