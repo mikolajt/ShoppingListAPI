@@ -13,7 +13,9 @@ Creating new item on the list.
 <br>
 Example JSON
 
-``` { "name": "Apples", "quantity": 5, "isComplete": false } ```
+```json
+{ "name": "Apples", "quantity": 5, "isComplete": false } 
+```
 
 where
 
@@ -31,7 +33,9 @@ Editing existing item.
 <br>
 Example JSON
 
-``` { "listItemId": 1, "name": "Apples", "quantity": 5, "isComplete": true } ```
+```JSON
+{ "listItemId": 1, "name": "Apples", "quantity": 5, "isComplete": true }
+```
 
 where
 
@@ -63,7 +67,9 @@ Example of usage:
 
 and output JSON:
 
-``` { "listItemId": 7, "name": "Banana", "quantity": 1, "isComplete": false } ```
+```JSON
+{ "listItemId": 7, "name": "Banana", "quantity": 1, "isComplete": false } 
+```
 
 <br><br>
 
