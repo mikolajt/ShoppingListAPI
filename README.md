@@ -61,7 +61,8 @@ Example of usage:
 ```GET /api/ListItems/7 ```
 
 and output JSON:
-{ "listItemId": 7, "name": "Banana", "quantity": 1, "isComplete": false }
+
+``` { "listItemId": 7, "name": "Banana", "quantity": 1, "isComplete": false } ```
 
 <br><br>
 
