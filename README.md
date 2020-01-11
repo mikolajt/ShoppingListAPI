@@ -1,6 +1,8 @@
 # ShoppingListAPI
+> In development.
 
-ShoppingListAPI is simple API which allows you to create your own shopping list.
+ShoppingListAPI is simple API which allows you to create your own shopping list. It is created with C# in MVC model.
+When server is turned on, clients can add their items to list.
 
 
 # API requests
